@@ -1,0 +1,14 @@
+file_format: "1"
+id: lily58
+name: Lily58
+type: shield
+url: https://github.com/kata0510/Lily58
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+  # - display
+  # - studio
+siblings:
+  - lily58_dongle
+  - lily58_left
+  - lily58_right
